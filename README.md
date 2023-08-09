@@ -40,6 +40,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+### 🚀 Projects I have worked on:
+
+- **[Design Patterns, APIs, Microservices Project](https://github.com/UPT-FAING-EPIS/proyecto-unidad-iii-pds-api_servicios)**
+  - Description: Project with usage of design patterns, APIS, Microservices.
+
+- **[Intranet Asistencias Project](https://github.com/UPT-FAING-EPIS/proyecto_unidad_ii-intranet-asistencias)**
+  - Description: RabbitMQ, API, ELK, Docker workflow.
+
+- **[GreenFill - Greenhouse Temperature Data Filling](https://github.com/SebastianCotrina16/GreenFill)**
+  - Description: This is a python project with CI/CD, docker-compose, unit tests, BDD, web API about a greenhouse temperature data filling with given set times.
+
+- **[Music Discord Bot](https://github.com/SebastianCotrina16/MusicDiscordBot)**
+  - Description: Music Discord bot using services APIs.
+
+
+---
 
 ### :fire: My Stats :
 
@@ -55,3 +71,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <b>Hobby:</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" title="Linux" />
 </div>
+
