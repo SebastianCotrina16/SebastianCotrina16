@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru, with a deep passion for crafting efficient software solutions.
+I am a Backend Developer/DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Peru, with a deep passion for crafting efficient software solutions.
 
 - :telescope: Actively furthering my education in software engineering, and having hands-on experience with frontend and backend development for web applications.
 - :seedling: Proficient in Python, TypeScript, and React, with exposure to contemporary DevOps practices, including Docker and CI/CD.
