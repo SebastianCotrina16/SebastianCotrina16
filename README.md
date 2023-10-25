@@ -59,7 +59,7 @@ I am a Backend Developer/DevOps, with a deep passion for crafting efficient soft
 
 ### :fire: My Stats :
 
-## [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SebastianCotrina16&theme=dark&background=000000)](https://git.io/streak-stats)
+## [![GitHub Streak](https://streak-stats.demolab.com/?user=SebastianCotrina16)](https://git.io/streak-stats)
 
 ### :computer: Operating Systems :
 
